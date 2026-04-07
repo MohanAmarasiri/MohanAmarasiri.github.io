@@ -158,4 +158,84 @@ author_profile: true
     *Food Control*, 2021.  
     [**DOI**](http://dx.doi.org/10.1016/j.foodcont.2020.107556){: .btn .btn--info .btn--small}
 
-17. **Viral Interference as a Factor of False-Negative in the Infectious Adenovirus Detection Using Integrated Cell Culture-PCR with a BGM Cell Line** Sano, D., Watanabe, R., Oishi, W., *Amarasiri, M.*, Kitajima, M., and Okabe, S.
+17. **Viral Interference as a Factor of False-Negative in the Infectious Adenovirus Detection Using Integrated Cell Culture-PCR with a BGM Cell Line** Sano, D., Watanabe, R., Oishi, W., *Amarasiri, M.*, Kitajima, M., and Okabe, S.  
+    *Food and Environmental Virology*, 2021.  
+    [**DOI**](https://doi.org/10.1007/s12560-020-09453-x){: .btn .btn--info .btn--small}
+
+16. **Multidrug-resistant Neisseria gonorrhoeae infection in heterosexual men with reduced susceptibility to ceftriaxone, first report in Thailand** Kueakulpattana, N., *Amarasiri, M.*, et al.  
+    *Scientific Reports*, 2021.  
+    [**DOI**](http://dx.doi.org/10.1038/s41598-021-00675-y){: .btn .btn--info .btn--small}
+
+## 2020
+***
+
+15. **Updated research agenda for water, sanitation and antimicrobial resistance** Sano, D., Wester, A. L., Schmitt, H., *Amarasiri, M.*, Kirby, A., Medlicott, K., and de Roda Husman, A. M.  
+    *Journal of Water and Health*, 2020.  
+    [**DOI**](https://doi.org/10.2166/wh.2020.033){: .btn .btn--info .btn--small}
+
+14. **The Effect of GD1a Ganglioside-Expressing Bacterial Strains on Murine Norovirus Infectivity** Zhu, Y., *Amarasiri, M.*, et al.  
+    *Molecules*, 2020.  
+    [**DOI**](https://doi.org/10.3390/molecules25184084){: .btn .btn--info .btn--small}
+
+13. **Assessment of microbial risks by characterization of Escherichia coli presence to analyze the public health risks from poor water quality in Nepal** Uprety, S., *Amarasiri, M.*, et al.  
+    *International Journal of Hygiene and Environmental Health*, 2020.  
+    [**DOI**](http://dx.doi.org/10.1016/j.ijheh.2020.113484){: .btn .btn--info .btn--small}
+
+12. **Identification of novel norovirus polymerase genotypes from pediatric fecal samples collected between the year 1997 and 2000 in Japan** *Amarasiri, M.*, Utagawa, E., Sano, D., and Katayama, K.  
+    *Infection, Genetics and Evolution*, 2020.  
+    [**DOI**](http://dx.doi.org/10.1016/j.meegid.2020.104313){: .btn .btn--info .btn--small}
+
+11. **Virucidal Efficacy of Olanexidine Gluconate as a Hand Antiseptic Against Human Norovirus** Imai, K., Hagi, A., Inoue, Y., *Amarasiri, M.*, and Sano, D.  
+    *Food and Environmental Virology*, 2020.  
+    [**DOI**](http://dx.doi.org/10.1007/s12560-020-09422-4){: .btn .btn--info .btn--small}
+
+## 2019
+***
+
+10. **Understanding human health risks caused by antibiotic resistant bacteria (ARB) and antibiotic resistance genes (ARG) in water environments: Current knowledge and questions to be answered** *Amarasiri, M.*, Sano, D., and Suzuki, S.  
+    *Critical Reviews in Environmental Science and Technology*, 2019.  
+    [**DOI**](http://dx.doi.org/10.1080/10643389.2019.1692611){: .btn .btn--info .btn--small}
+
+9. **Specific Interactions between Human Norovirus and Environmental Matrices: Effects on the Virus Ecology** *Amarasiri, M.* and Sano, D.  
+   *Viruses*, 2019.  
+   [**DOI**](http://dx.doi.org/10.3390/v11030224){: .btn .btn--info .btn--small}
+
+8. **Specific interactions of rotavirus HAL1166 with Enterobacter cloacae SENG-6 and their contribution on rotavirus HAL1166 removal** *Amarasiri, M.*, Kawai, H., Kitajima, M., Okabe, S., and Sano, D.  
+   *Water Science and Technology*, 2019.  
+   [**DOI**](https://doi.org/10.2166/wst.2019.050){: .btn .btn--info .btn--small}
+
+7. **Fecal Source Tracking in A Wastewater Treatment and Reclamation System Using Multiple Waterborne Gastroenteritis Viruses** Ji, Z., *Amarasiri, M.*, et al.  
+   *Pathogens*, 2019.  
+   [**DOI**](http://dx.doi.org/10.3390/pathogens8040170){: .btn .btn--info .btn--small}
+
+6. **Sign-constrained linear regression for prediction of microbe concentration based on water quality datasets** Kato, T., *Amarasiri, M.*, et al.  
+   *Journal of Water and Health*, 2019.  
+   [**DOI**](http://dx.doi.org/10.2166/wh.2019.001){: .btn .btn--info .btn--small}
+
+## 2018
+***
+
+5. **Reverse transcription-quantitative PCR assays for genotype-specific detection of human noroviruses in clinical and environmental samples** *Amarasiri, M.*, Kitajima, M., Miyamura, A., Santos, R., Monteiro, S., Miura, T., Kazama, S., Okabe, S., and Sano, D.  
+   *International Journal of Hygiene and Environmental Health*, 2018.
+
+## 2017
+***
+
+4. **Bacteriophage removal efficiency as a validation and operational monitoring tool for virus reduction in wastewater reclamation: Review** *Amarasiri, M.*, Kitajima, M., Nguyen, T. H., Okabe, S., and Sano, D.  
+   *Water Research*, 2017.  
+   [**DOI**](https://doi.org/10.1016/j.watres.2017.05.035){: .btn .btn--info .btn--small}
+
+## 2016
+***
+
+3. **Genome Sequence of Enterobacter cloacae Strain SENG-6, a Bacterium Producing Histo-Blood Group Antigen-Like Substances That Can Bind with Human Noroviruses** Ishii, S., *Amarasiri, M.*, Hashiba, S., Yang, P., Okabe, S., and Sano, D.  
+   *Genome Announcements*, 2016.  
+   [**DOI**](https://doi.org/10.1128/genomea.00893-16){: .btn .btn--info .btn--small}
+
+2. **Bacterial histo-blood group antigens contributing to genotype-dependent removal of human noroviruses with a microfiltration membrane** *Amarasiri, M.*, Hashiba, S., Miura, T., Nakagomi, T., Nakagomi, O., Ishii, S., Okabe, S., and Sano, D.  
+   *Water Research*, 2016.  
+   [**DOI**](https://doi.org/10.1016/j.watres.2016.04.018){: .btn .btn--info .btn--small}
+
+1. **Risk management of viral infectious diseases in wastewater reclamation and reuse: Review** Sano, D., *Amarasiri, M.*, Hata, A., Watanabe, T., and Katayama, H.  
+   *Environment International*, 2016.  
+   [**DOI**](https://doi.org/10.1016/j.envint.2016.03.001){: .btn .btn--info .btn--small}
