@@ -238,4 +238,4 @@ author_profile: true
 
 1. **Risk management of viral infectious diseases in wastewater reclamation and reuse: Review** Sano, D., *Amarasiri, M.*, Hata, A., Watanabe, T., and Katayama, H.  
    *Environment International*, 2016.  
-   [**DOI**](https://doi.org/10.1016/j.envint.2016.03.001){: .btn .btn--info .btn--small}
+   [**DOI**](https://doi.org/10.1016/j.envint.2016.03.
