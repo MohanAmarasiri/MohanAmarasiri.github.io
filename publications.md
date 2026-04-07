@@ -18,7 +18,7 @@ author_profile: true
 
 **50.** **Tracking Plasmodium knowlesi Through Fecal DNA for Monitoring Zoonotic Transmission in Wild Macaques Across Southeast and South Asia** Wannigama, D. L., *Amarasiri, M.*, et al.  
 *The Journal of Infectious Diseases*, 2026.  
-[**DOI**](http://dx.doi.org/10.93/infdis/jiag128){: .btn .btn--info .btn--small}
+[**DOI**](http://dx.doi.org/10.1093/infdis/jiag128){: .btn .btn--info .btn--small}
 
 **49.** **Energy allocation trade-offs among conjugative transfer, biofilm formation, and heavy metal resistance: a dynamic energy budget theory perspective** Amirfard, K. D., *Amarasiri, M.*, and Sano, D.  
 *Water Research*, 2026.  
@@ -177,4 +177,27 @@ author_profile: true
 *Molecules*, 2020.  
 [**DOI**](https://doi.org/10.3390/molecules25184084){: .btn .btn--info .btn--small}
 
-**13.** **Assessment of microbial risks by characterization of Escherichia coli presence to analyze the public health risks from poor water
+**13.** **Assessment of microbial risks by characterization of Escherichia coli presence to analyze the public health risks from poor water quality in Nepal** Uprety, S., *Amarasiri, M.*, et al.  
+*International Journal of Hygiene and Environmental Health*, 2020.  
+[**DOI**](http://dx.doi.org/10.1016/j.ijheh.2020.113484){: .btn .btn--info .btn--small}
+
+**12.** **Identification of novel norovirus polymerase genotypes from pediatric fecal samples collected between the year 1997 and 2000 in Japan** *Amarasiri, M.*, Utagawa, E., Sano, D., and Katayama, K.  
+*Infection, Genetics and Evolution*, 2020.  
+[**DOI**](http://dx.doi.org/10.1016/j.meegid.2020.104313){: .btn .btn--info .btn--small}
+
+**11.** **Virucidal Efficacy of Olanexidine Gluconate as a Hand Antiseptic Against Human Norovirus** Imai, K., Hagi, A., Inoue, Y., *Amarasiri, M.*, and Sano, D.  
+*Food and Environmental Virology*, 2020.  
+[**DOI**](http://dx.doi.org/10.1007/s12560-020-09422-4){: .btn .btn--info .btn--small}
+
+## 2019
+***
+
+**10.** **Understanding human health risks caused by antibiotic resistant bacteria (ARB) and antibiotic resistance genes (ARG) in water environments: Current knowledge and questions to be answered** *Amarasiri, M.*, Sano, D., and Suzuki, S.  
+*Critical Reviews in Environmental Science and Technology*, 2019.  
+[**DOI**](http://dx.doi.org/10.1080/10643389.2019.1692611){: .btn .btn--info .btn--small}
+
+**9.** **Specific Interactions between Human Norovirus and Environmental Matrices: Effects on the Virus Ecology** *Amarasiri, M.* and Sano, D.  
+*Viruses*, 2019.  
+[**DOI**](http://dx.doi.org/10.3390/v11030224){: .btn .btn--info .btn--small}
+
+**8.** **Specific interactions of rotavirus HAL1166 with
