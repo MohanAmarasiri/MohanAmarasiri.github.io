@@ -10,7 +10,7 @@ author_profile: true
     display: inline-block;
     padding: 2px 10px;
     margin-top: 5px;
-    font-size: 0.8em;
+    font-size: 0.7em;
     font-weight: bold;
     color: #fff !important;
     background-color: #007bff;
