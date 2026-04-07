@@ -21,11 +21,11 @@ author:
   name: "Mohan Amarasiri"
   bio: "Associate Professor at Tohoku University"
   location: "Sendai, Japan"
-  avatar: "/assets/images/profile.jpg" # We will add this file next!
+  avatar: "/assets/images/profile.jpg" 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your-email@tohoku.ac.jp"
+      url: "mohan.amarasiri.b5@tohoku.ac.jp"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=iF4JOp8AAAAJ"
