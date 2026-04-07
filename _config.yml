@@ -1,0 +1,17 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Site Settings
+title: "Mohan Amarasiri"
+description: "Associate Professor at Tohoku University"
+url: "https://MohanAmarasiri.github.io"
+baseurl: ""
+
+# Layout Settings
+layout: single
+author_profile: true
+
+# Site Navigation
+navigation: main
