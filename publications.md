@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 <style>
   .pub-list { font-size: 0.7em; line-height: 1.6; color: #444; }
   .pub-item { margin-bottom: 1.5rem; display: flex; }
