@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Publications"
+title: "Conference Presentations"
 permalink: /publications/conferences/
+author_profile: true
 sidebar:
   nav: "main"
-author_profile: true
 ---
 
 <style>

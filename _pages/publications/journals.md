@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Publications"
+title: "Journal Publications"
 permalink: /publications/journals/
+author_profile: true
 sidebar:
   nav: "main"
-author_profile: true
 ---
 
 <style>
