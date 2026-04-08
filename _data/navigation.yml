@@ -6,11 +6,9 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    children:
-      - title: "Journals"
-        url: /publications/journals/
-      - title: "Conferences"
-        url: /publications/conferences/
+  - title: "Journals"
+    url: /publications/journals/
+  - title: "Conferences"
+    url: /publications/conferences/
   - title: "News"
     url: /news/
