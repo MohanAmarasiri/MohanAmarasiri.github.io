@@ -38,13 +38,10 @@ author_profile: true
 </style>
 
 <div class="news-scroll-box">
-  <div class="news-scroll-item">
-    <strong>April 2026:</strong> Paper accepted in <i>Environmental Pollution</i>.
+<div class="news-item">
+  <div class="news-date">April 2026</div>
+  <div class="news-content">
+    Excited to announce our new publication in <i>Environmental Pollution</i> regarding the inactivation of bio-aerosolized viruses. 
+    <a href="http://dx.doi.org/10.1016/j.envpol.2026.127841" target="_blank" style="color: #007bff; text-decoration: none; font-weight: bold;">[Read Paper]</a>
   </div>
-  <div class="news-scroll-item">
-    <strong>March 2026:</strong> Started new position at Tohoku University.
-  </div>
-  <div class="news-scroll-item">
-    <strong>Jan 2026:</strong> Received research grant for PFAS monitoring project.
-  </div>
-  </div>
+</div>
