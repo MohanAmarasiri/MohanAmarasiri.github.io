@@ -22,6 +22,9 @@ scholar:
   bibliography: _bibliography/references.bib
 
 # Settings for the posts/archive layout
+show_date: true
+show_categories: true
+show_tags: true
 category_archive:
   type: liquid
   path: /categories/
