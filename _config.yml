@@ -22,13 +22,19 @@ author:
   bio: "Associate Professor at Tohoku University"
   location: "Sendai, Japan"
   avatar: "/assets/images/profile.jpg" 
-  links:
+links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mohan.amarasiri.b5@tohoku.ac.jp"
+      url: "mailto:mohan.amarasiri.b5@tohoku.ac.jp"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=iF4JOp8AAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-3509-3433"
+    - label: "researchmap"
+      icon: "fas fa-fw fa-link"
+      url: "https://researchmap.jp/50000?lang=en"
 
 defaults:
   # _pages
