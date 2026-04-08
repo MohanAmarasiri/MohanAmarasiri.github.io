@@ -6,50 +6,21 @@ author_profile: true
 ---
 
 <style>
-  /* #main targets the primary content area of your theme to ensure priority */
-  #main #pub-container, 
-  #main #pub-container li, 
-  #main #pub-container p {
-    font-size: 0.6rem !important; /* Force 40% reduction */
-    line-height: 1.6 !important;
-    color: #444 !important;
-  }
-
-  /* Force Year Headers to be Bold and Larger */
-  #main #pub-container h2 {
-    font-size: 1.1rem !important;
-    font-weight: 800 !important; /* Extra bold */
-    color: #000 !important;
-    margin-top: 2.5rem !important;
-    border-bottom: 2px solid #333 !important; /* Thick line for the year */
-    padding-bottom: 5px !important;
-    display: block !important;
-  }
-
-  /* Scientific Style for Paper Titles */
-  #main #pub-container .paper-title {
-    display: block;
-    font-size: 0.75rem !important;
-    font-weight: bold !important;
-    color: #222 !important;
-    margin-bottom: 2px;
-  }
-
-  /* DOI Button Style */
-  #main #pub-container .doi-btn {
+  .pub-btn {
     display: inline-block;
-    background-color: #007bff !important;
-    color: #fff !important;
-    padding: 1px 8px;
-    border-radius: 3px;
-    font-size: 0.55rem !important;
-    text-decoration: none !important;
+    padding: 2px 10px;
+    margin-top: 5px;
+    font-size: 0.4em;
     font-weight: bold;
-    margin-top: 4px;
+    color: #fff !important;
+    background-color: #007bff;
+    border-radius: 4px;
+    text-decoration: none !important;
   }
+  .pub-btn:hover { background-color: #0056b3; }
+  li { margin-bottom: 1.5rem; }
+  strong.title { display: block; color: #222; font-size: 1.1em; }
 </style>
-
-<div id="pub-container">
 
 ## 2026
 ***
