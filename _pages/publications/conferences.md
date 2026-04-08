@@ -2,6 +2,8 @@
 layout: single
 title: "Publications"
 permalink: /publications/conferences/
+sidebar:
+  nav: "main"
 author_profile: true
 ---
 
