@@ -69,3 +69,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # Add this specific scope for posts:
+  - scope:
+      path: "_posts"
+    values:
+      layout: single
+      author_profile: true
+      classes: "small-text"
