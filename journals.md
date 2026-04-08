@@ -1,10 +1,8 @@
 ---
 layout: single
 title: "Journal Publications"
-permalink: /publications/journals/
+permalink: /journals/
 author_profile: true
-sidebar:
-  nav: "main"
 ---
 
 <style>

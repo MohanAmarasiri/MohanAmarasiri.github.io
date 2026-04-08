@@ -1,10 +1,8 @@
 ---
 layout: single
 title: "Conference Presentations"
-permalink: /publications/conferences/
+permalink: /conferences/
 author_profile: true
-sidebar:
-  nav: "main"
 ---
 
 <style>
