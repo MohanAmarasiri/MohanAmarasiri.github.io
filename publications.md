@@ -6,20 +6,35 @@ author_profile: true
 ---
 
 <style>
+  /* Base container for 40% reduction */
+  .pub-list {
+    font-size: 0.6em; 
+    line-height: 1.6;
+    color: #444;
+  }
+
   .pub-btn {
     display: inline-block;
     padding: 2px 10px;
     margin-top: 5px;
-    font-size: 0.7em;
+    font-size: 0.8em; /* Adjusted to look proportional to the smaller base */
     font-weight: bold;
     color: #fff !important;
     background-color: #007bff;
     border-radius: 4px;
     text-decoration: none !important;
   }
+  
   .pub-btn:hover { background-color: #0056b3; }
+  
   li { margin-bottom: 1.5rem; }
-  strong.title { display: block; color: #222; font-size: 1.1em; }
+  
+  strong.title { 
+    display: block; 
+    color: #222; 
+    font-size: 1.2em; /* Keeps titles slightly larger than author names */
+    margin-bottom: 3px;
+  }
 </style>
 
 ## 2026
