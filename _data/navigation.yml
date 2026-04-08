@@ -7,8 +7,8 @@ main:
   - title: "Research"
     url: /research/
   - title: "Journals"
-    url: /publications/journals/
+    url: /journals/
   - title: "Conferences"
-    url: /publications/conferences/
+    url: /conferences/
   - title: "News"
     url: /news/
