@@ -51,6 +51,16 @@ defaults:
       layout: single
       author_profile: true
 
+ # Archive and Post Settings
+ category_archive:
+    type: liquid
+    path: /categories/
+ tag_archive:
+    type: liquid
+    path: /tags/
+
+# To show excerpts (short previews) instead of full text
+excerpt: "teaser"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
