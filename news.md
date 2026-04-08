@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "Conference Presentations"
+layout: posts
+title: "News"
 permalink: /news/
 author_profile: true
 ---
