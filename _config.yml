@@ -22,6 +22,7 @@ author_profile: true
 
 # Site Navigation
 navigation: main
+minimal_mistakes_skin: "default"
 
 # Sidebar / Author Profile
 author:
