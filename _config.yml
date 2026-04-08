@@ -18,11 +18,11 @@ navigation: main
 
 # Sidebar / Author Profile
 author:
-  name: "Mohan Amarasiri"
-  bio: "Associate Professor at Tohoku University"
+  name   : "Mohan Amarasiri"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Associate Professor at Tohoku University"
   location: "Sendai, Japan"
-  avatar: "/assets/images/profile.jpg" 
-links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mohan.amarasiri.b5@tohoku.ac.jp"
