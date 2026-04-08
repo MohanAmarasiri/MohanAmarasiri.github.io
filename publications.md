@@ -37,6 +37,8 @@ author_profile: true
   }
 </style>
 
+<div class="pub-list">
+
 ## 2026
 ***
 <ol reversed start="53">
