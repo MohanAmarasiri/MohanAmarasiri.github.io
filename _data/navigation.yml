@@ -7,8 +7,10 @@ main:
   - title: "Research"
     url: /research/
   - title: "Publications"
-      children:
+    children:
       - title: "Journals"
         url: /publications/journals/
       - title: "Conferences"
         url: /publications/conferences/
+  - title: "News"
+    url: /news/
