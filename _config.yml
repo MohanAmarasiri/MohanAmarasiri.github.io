@@ -1,4 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -13,6 +15,23 @@ description: "Associate Professor at Tohoku University"
 url: "https://MohanAmarasiri.github.io"
 baseurl: ""
 
+# Jekyll Scholar
+scholar:
+  style: apa
+  locale: en
+  bibliography: _bibliography/references.bib
+
+# Settings for the posts/archive layout
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+excerpt: "teaser"
+
+# CRITICAL: Tell Jekyll to look inside the _pages folder
 include:
   - _pages
 
@@ -25,9 +44,9 @@ navigation: main
 
 # Sidebar / Author Profile
 author:
-  name   : "Mohan Amarasiri"
-  avatar : "/assets/images/profile.jpg"
-  bio    : "Associate Professor at Tohoku University"
+  name    : "Mohan Amarasiri"
+  avatar  : "/assets/images/profile.jpg"
+  bio     : "Associate Professor at Tohoku University"
   location: "Sendai, Japan"
   links:
     - label: "Email"
@@ -43,32 +62,10 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://researchmap.jp/50000?lang=en"
 
+# Front Matter Defaults
 defaults:
-  # _pages
   - scope:
       path: ""
     values:
       layout: single
       author_profile: true
-
- # Archive and Post Settings
- category_archive:
-    type: liquid
-    path: /categories/
- tag_archive:
-    type: liquid
-    path: /tags/
-
-# To show excerpts (short previews) instead of full text
-excerpt: "teaser"
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-
-scholar:
-  style: apa
-  locale: en
-  bibliography: _bibliography/references.bib
