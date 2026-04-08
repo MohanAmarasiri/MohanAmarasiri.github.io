@@ -6,38 +6,58 @@ author_profile: true
 ---
 
 <style>
-  /* Base container for 40% reduction */
-  .pub-list {
-    font-size: 0.6em; 
+  /* 40% reduction for general text */
+  .pub-wrapper {
+    font-size: 0.6rem !important; 
     line-height: 1.6;
     color: #444;
+  }
+
+  /* Make Year Headers Bold and Larger */
+  .pub-wrapper h2 {
+    font-size: 1.2rem !important; /* Significantly larger than the list text */
+    font-weight: bold !important;
+    color: #222 !important;
+    margin-top: 2rem !important;
+    margin-bottom: 0.5rem !important;
+    border-bottom: 2px solid #eee; /* Adds a clean line under the year */
+    display: block;
+  }
+
+  /* Style the horizontal rule if you use *** */
+  .pub-wrapper hr {
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #eee;
+  }
+
+  .pub-wrapper li { 
+    font-size: 0.6rem !important;
+    margin-bottom: 1.5rem !important; 
+  }
+
+  .pub-wrapper strong.title { 
+    display: block; 
+    color: #222; 
+    font-size: 0.75rem !important; 
+    margin-bottom: 3px;
   }
 
   .pub-btn {
     display: inline-block;
     padding: 2px 10px;
     margin-top: 5px;
-    font-size: 0.8em; /* Adjusted to look proportional to the smaller base */
+    font-size: 0.55rem !important; 
     font-weight: bold;
     color: #fff !important;
     background-color: #007bff;
     border-radius: 4px;
     text-decoration: none !important;
   }
-  
-  .pub-btn:hover { background-color: #0056b3; }
-  
-  li { margin-bottom: 1.5rem; }
-  
-  strong.title { 
-    display: block; 
-    color: #222; 
-    font-size: 1.2em; /* Keeps titles slightly larger than author names */
-    margin-bottom: 3px;
-  }
 </style>
 
-<div class="pub-list">
+<div class="pub-wrapper">
 
 ## 2026
 ***
