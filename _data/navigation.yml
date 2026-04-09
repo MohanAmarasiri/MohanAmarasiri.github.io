@@ -6,8 +6,8 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
-  - title: "Journals"
-    url: /journals/
+  - title: "Publications"
+    url: /publications/
   - title: "Conferences"
     url: /conferences/
   - title: "News"
