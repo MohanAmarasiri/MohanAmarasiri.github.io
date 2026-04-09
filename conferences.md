@@ -5,14 +5,6 @@ permalink: /conferences/
 author_profile: true
 ---
 
-<style>
-  #main .archive__item-excerpt, #main .archive__item-title, #main .page__content {
-    font-size: 0.8em; /* Slightly reduced for better readability of long lists */
-  }
-</style>
-
-# Conference Presentations
-
 ## English Presentations
 
 ### Oral Presentations
