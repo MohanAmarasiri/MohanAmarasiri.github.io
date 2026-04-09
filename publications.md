@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Journal Publications"
-permalink: /journals/
+permalink: /publications/
 author_profile: true
 ---
 
