@@ -10,7 +10,8 @@ author_profile: true
     display: inline-block;
     padding: 2px 10px;
     margin-top: 5px;
-    font-size: 0.4em;
+    /* Adjusted from 0.4em to 0.7em to stay proportional to the new smaller body text */
+    font-size: 0.7em; 
     font-weight: bold;
     color: #fff !important;
     background-color: #007bff;
@@ -18,8 +19,19 @@ author_profile: true
     text-decoration: none !important;
   }
   .pub-btn:hover { background-color: #0056b3; }
-  li { margin-bottom: 1.5rem; }
-  strong.title { display: block; color: #222; font-size: 1.1em; }
+  
+  /* Matches your second style's base font size */
+  li { 
+    margin-bottom: 1.5rem; 
+    font-size: 0.8em; 
+  }
+  
+  /* Adjusted to 1.0em so titles are clear but fit the 0.8em surrounding context */
+  strong.title { 
+    display: block; 
+    color: #222; 
+    font-size: 1.0em; 
+  }
 </style>
 
 ## 2026
