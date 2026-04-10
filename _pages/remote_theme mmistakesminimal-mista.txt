@@ -1,0 +1,74 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-scholar
+
+# Site Settings
+title: "Mohan Amarasiri"
+description: "Associate Professor at Tohoku University"
+url: "https://MohanAmarasiri.github.io"
+baseurl: ""
+
+include:
+  - _pages
+
+# Layout Settings
+layout: single
+author_profile: true
+
+# Site Navigation
+navigation: main
+
+# Sidebar / Author Profile
+author:
+  name   : "Mohan Amarasiri"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Associate Professor at Tohoku University"
+  location: "Sendai, Japan"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mohan.amarasiri.b5@tohoku.ac.jp"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=iF4JOp8AAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-3509-3433"
+    - label: "researchmap"
+      icon: "fas fa-fw fa-link"
+      url: "https://researchmap.jp/50000?lang=en"
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+
+ # Archive and Post Settings
+ category_archive:
+    type: liquid
+    path: /categories/
+ tag_archive:
+    type: liquid
+    path: /tags/
+
+# To show excerpts (short previews) instead of full text
+excerpt: "teaser"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+
+scholar:
+  style: apa
+  locale: en
+  bibliography: _bibliography/references.bib
