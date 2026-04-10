@@ -5,16 +5,11 @@ permalink: /conferences/
 author_profile: true
 ---
 <style>
-  .compact-text {
-    font-size: 0.75em;
-    line-height: 1.2;
-  }
-  .compact-text li {
-    margin-bottom: 0.2em;
+  #main .archive__item-excerpt, #main .archive__item-title, #main .page__content {
+    font-size: 0.8em; /* Slightly reduced for better readability of long lists */
   }
 </style>
 
-<div class="compact-text">
 ## English Presentations
 
 ### Oral Presentations
@@ -148,4 +143,3 @@ author_profile: true
 3. **アマラシリ モハン, 吉村知恵, 岡部聡, 佐野大輔**, 血液型活性物質を有する腸内細菌を用いたヒトノロウイルスの膜分離, 第22回衛生工学シンポジウム, 北海道大学, 2014年11月21日.
 2. **アマラシリ モハン, 佐野大輔, 吉村知恵, 石崎幸介, 中込智子, 中込治, 岡部聡**, ヒトノロウイルスの受容体としての腸内細菌と膜分離への影響, 第21回衛生工学シンポジウム, 北海道大学, 2013年12月4日.
 1. **アマラシリ モハン, 吉村知恵, 中込智子, 中込治, 岡部聡, 佐野大輔**, ノロウイルスの膜分離における腸内細菌の組織血液型抗原様物質の影響：除去効率向上に向けた新たな試み, 第1回環境水質工学シンポジウム, 東北大学, 2014年5月9日.
-</div>
