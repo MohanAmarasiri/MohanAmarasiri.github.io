@@ -31,13 +31,13 @@ permalink: /cv/
 
 ## Professional Experience
 
-* **2024 – Present** 
+**2024 – Present** 
 * **Associate Professor**, Dept of Civil and Environmental Engineering, Tohoku University, Japan.
 
-* **2020 – 2024** 
+**2020 – 2024** 
 * **Junior Associate Professor**, Dept of Health Science, School of Allied Health Sciences, Kitasato University, Japan.
 
-* **2017 – 2020** 
+**2017 – 2020** 
 * **Assistant Professor**, Dept of Civil and Environmental Engineering, Tohoku University, Japan.
 
 
